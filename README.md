@@ -51,7 +51,7 @@ Once onboarding is complete, you will be redirected to the dashboard. Under the 
 ![Step 3: DNS Management](assets/dnsmanagement.png)
 
 #### DNS Capabilities:
-- **Proxy Toggle**: A brutalist click toggle button lets you enable or disable Cloudflare's edge proxying.
+- **Proxy Toggle**: A click toggle button lets you enable or disable Cloudflare's edge proxying.
 - **MX Record Alert**: If configuring mail server records (`MX`), note that subdomains under `vexr.dev` cannot directly receive mail since mail providers do not support third-party subdomains. Please direct them to your own mail servers.
 - **Limit**: Up to 5 DNS records can be registered per subdomain.
 
