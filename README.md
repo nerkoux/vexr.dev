@@ -73,3 +73,13 @@ Please play nice. Do not use your subdomain for:
 - Domain squatting on highly recognizable brand names.
 
 Enjoy your corner of the internet! 🚀
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=nerkoux%2Fvexr.dev&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&legend=top-left" />
+ </picture>
+</a>
