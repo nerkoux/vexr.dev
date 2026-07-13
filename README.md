@@ -78,8 +78,8 @@ Enjoy your corner of the internet! 🚀
 
 <a href="https://www.star-history.com/?repos=nerkoux%2Fvexr.dev&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&theme=dark&legend=top-left&sealed_token=OhlmHx1LLPyMOeYiCHaN8wHnsJqjQVUf_p-zALIsV35CUXT65Aq0Lhe0wCG4Nf6Blir1-gzazpeem79eJkLxv8HQuKeeWFYIZ355wfXt3MOIF4Cbpjno-vVZX7Eo5RLQtnL9tavbqZ38fvxcQoIQ-CbYuU2jSxi5S1ykFPCLII-VtPDBagQy4Jc3wQDb" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&legend=top-left&sealed_token=OhlmHx1LLPyMOeYiCHaN8wHnsJqjQVUf_p-zALIsV35CUXT65Aq0Lhe0wCG4Nf6Blir1-gzazpeem79eJkLxv8HQuKeeWFYIZ355wfXt3MOIF4Cbpjno-vVZX7Eo5RLQtnL9tavbqZ38fvxcQoIQ-CbYuU2jSxi5S1ykFPCLII-VtPDBagQy4Jc3wQDb" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nerkoux/vexr.dev&type=date&legend=top-left&sealed_token=OhlmHx1LLPyMOeYiCHaN8wHnsJqjQVUf_p-zALIsV35CUXT65Aq0Lhe0wCG4Nf6Blir1-gzazpeem79eJkLxv8HQuKeeWFYIZ355wfXt3MOIF4Cbpjno-vVZX7Eo5RLQtnL9tavbqZ38fvxcQoIQ-CbYuU2jSxi5S1ykFPCLII-VtPDBagQy4Jc3wQDb" />
  </picture>
 </a>
