@@ -76,7 +76,7 @@ Enjoy your corner of the internet! 🚀
 
 ## Community
 
-Join our Discord server to get support, share your projects, and connect with other developers: [Join Discord Server](https://discord.gg/G7azqdJKXA)
+Join our Discord server to get support, share your feedback, and connect with other developers: [Join Discord Server](https://discord.gg/G7azqdJKXA)
 
 ## Star History
 
